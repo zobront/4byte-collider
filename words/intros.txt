@@ -1,0 +1,7 @@
+on
+if
+when
+upon
+for
+at
+while

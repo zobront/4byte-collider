@@ -1,0 +1,12 @@
+paid
+collected
+refunded
+reimbursed
+remunerated
+repaid
+gathered
+saved
+grabbed
+taken
+withdrawn
+deposited

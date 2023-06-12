@@ -4,7 +4,7 @@ A simple script to find function signatures that have colliding 4byte selectors.
 
 ## Usage
 
-1) Insert the signature for your target function in the `TARGET` global variable. Rememner, it should take the form "function_name(arg1_type,arg2_type,...)"` with no spaces between the types.
+1) Insert the signature for your target function in the `TARGET` global variable. Remember, signatures should take the form `"function_name(arg1_type,arg2_type,...)"` with no spaces between the types.
 
 2) Decide on the structure for the functions you are testing. Currently, it's set up to test different versions of function names related to fees, all of which use 4 argument types, each of which is greater than 20 bytes. You can customize this structure by changing the imported files and arragement of the `signature` string on L55.
 
